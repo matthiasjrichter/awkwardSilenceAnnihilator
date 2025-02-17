@@ -29,11 +29,17 @@ let categories = [
 ];
 
 let otherQuestions = [
-    "If you could have a superpower, what woould it be?",
+    "If you could have a superpower, what would it be?",
     "If you could have dinner with any historical figure, who would it be?",
     "If you could instantly master one skill, what would it be?",
     "What is the best piece of advice you've ever received?",
-    "If you had to live in a different time period, which one would you choose?"
+    "If you had to live in a different time period, which one would you choose?",
+    "If you could live anywhere in the world for a year, where would it be?",
+    "What's something you've always wanted to learn but never got around to?",
+    "If you had a time machine, would you go to the past or the future?",
+    "What's the most unusual thing you've ever experienced?",
+    "Do you believe in aliens or life on other planets?",
+    "If you were given a million dollars right now, what's the first thing you'd do?",
 ];
 
 let remainingCategories = [...categories];
