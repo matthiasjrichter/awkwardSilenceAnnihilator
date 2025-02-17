@@ -16,6 +16,9 @@ This is a simple web application that generates random questions.
 - CSS
 - JavaScript
 
+## Live Demo
+You can see the app in action here: [Awkward Silence Annihilator](https://matthiasjrichter.github.io/awkwardSilenceAnnihilator/)
+
 ## Installation & Usage
 1. Clone the repository:
    ```sh
