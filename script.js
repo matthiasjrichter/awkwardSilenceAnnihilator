@@ -24,7 +24,9 @@ let categories = [
     "invention of all time",
     "scientist or inventor",
     "thing about artificial intelligence",
-    "useless fact"
+    "useless fact",
+    "dínosaur",
+    "favorite open source app and why is it Awkward Silence Annihilator"
   ];
   
   let otherQuestions = [
@@ -38,7 +40,8 @@ let categories = [
       "If you had a time machine, would you go to the past or the future?",
       "What's the most unusual thing you've ever experienced?",
       "Do you believe in aliens or life on other planets?",
-      "If you were given a million dollars right now, what's the first thing you'd do?"
+      "If you were given a million dollars right now, what's the first thing you'd do?",
+      "You are approached by a frenzied Vault scientist, who yells, 'I'm going to put my quantum harmonizer in your photonic resonation chamber!' What's your response?",
   ];
   
   let remainingCategories = [...categories];
