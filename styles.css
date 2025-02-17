@@ -6,11 +6,27 @@ body {
     justify-content: center;
     height: 100vh;
     background-color: #f4f4f4;
+    margin: 0;
 }
+
+header {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding-bottom: 1.5em;
+}
+
 #question {
     font-size: 1.5em;
     margin-bottom: 20px;
+    text-align: center;
 }
+
 button {
     padding: 10px 20px;
     font-size: 1em;
@@ -20,6 +36,27 @@ button {
     border: none;
     border-radius: 5px;
 }
+
 button:hover {
     background-color: #0056b3;
+}
+
+footer {
+    position: absolute;
+    bottom: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+footer p {
+    font-size: 1em;
+}
+
+footer a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
 }
