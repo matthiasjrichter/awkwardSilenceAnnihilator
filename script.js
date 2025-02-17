@@ -24,8 +24,7 @@ let categories = [
   "invention of all time",
   "scientist or inventor",
   "thing about artificial intelligence",
-  "useless fact",
-
+  "useless fact"
 ];
 
 let otherQuestions = [
@@ -39,7 +38,7 @@ let otherQuestions = [
     "If you had a time machine, would you go to the past or the future?",
     "What's the most unusual thing you've ever experienced?",
     "Do you believe in aliens or life on other planets?",
-    "If you were given a million dollars right now, what's the first thing you'd do?",
+    "If you were given a million dollars right now, what's the first thing you'd do?"
 ];
 
 let remainingCategories = [...categories];
